@@ -8,13 +8,13 @@ services:
   subheading: Your Computer, Network and Internet Solutions Partner.
   service:
     - icon: fa fa-building
-      heading: Business Solutions
+      heading: Business
       text: Network troubleshooting, repair, upgrade, maintenance, and/or install Workstation repair Large or small scale computer upgrade Server repair, maintenance, upgrade, and install Custom business IT support built specifically to your needs Business grade firewalls and anti-virus protection We always maintain express
     - icon: fa fa-laptop
       heading: About Us
       text: Who Vision Network Solutions was founded in 1999 by Jan Erickson. In 2001 Brian Berg joined Jan in the company expanding their knowledge base and setting up for the future and further success. They strive to build strong relationships with.
     - icon: fa fa-home
-      heading: Home Solutions
+      heading: Home
       text: Virus removal Firewall and anti-virus software updates, check, and installs Computer upgrades Custom builds from moderate to extreme Network (wireless or wired) install, upgrade, troubleshooting, and/or repair Data backup and recovery Preventative maintenance Mac, Linux or Windows Immediate and Express(Standard).
 
 portfolio:
