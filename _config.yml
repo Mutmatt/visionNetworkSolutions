@@ -36,8 +36,6 @@ sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
 collections: # Enables additional data structures 
   projects: # Enables _projects
 
-assets_path: 'assets/'
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
