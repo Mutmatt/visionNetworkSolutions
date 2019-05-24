@@ -1,0 +1,38 @@
+brand:
+  name: Vision Network Solutions, Inc.
+menu-string: Menu
+
+nav:
+  - title: Solutions
+    url: '#services'
+  - title: Why Us?
+    url: '#portfolio'
+  - title: About
+    url: '#about'
+  - title: Team
+    url: '#team'
+  - title: Contact
+    url: '#contact'
+
+copyright: Copyright &copy; Vision Network Solutions, Inc 2019
+
+social-buttons:
+  - icon: fa fa-facebook
+    url: 'https://facebook.com/visionnetworkinc' 
+  #- icon: fa fa-facebook
+  #  url: '#'
+  #- icon: fa fa-linkedin
+  #  url: '#'
+
+quicklinks:
+  - title: Phone (763.428.7677)
+    url: 'tel:+17634287677'
+  - title: Email (info@visionnetworkinc.com)
+    url: 'mailto:info@visionnetworkinc.com'
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'

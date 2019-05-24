@@ -1,0 +1,109 @@
+intro:
+  lead-in: "Vision Network Solutions"
+  #heading: Your Computer, Network and Internet Solutions Partner
+  btn: Let Us Help You
+
+services:
+  heading: Solutions
+  subheading: Your Computer, Network and Internet Solutions Partner.
+  service:
+    - icon: fa fa-building
+      heading: Business Solutions
+      text: Network troubleshooting, repair, upgrade, maintenance, and/or install Workstation repair Large or small scale computer upgrade Server repair, maintenance, upgrade, and install Custom business IT support built specifically to your needs Business grade firewalls and anti-virus protection We always maintain express
+    - icon: fa fa-laptop
+      heading: About Us
+      text: Who Vision Network Solutions was founded in 1999 by Jan Erickson. In 2001 Brian Berg joined Jan in the company expanding their knowledge base and setting up for the future and further success. They strive to build strong relationships with.
+    - icon: fa fa-home
+      heading: Home Solutions
+      text: Virus removal Firewall and anti-virus software updates, check, and installs Computer upgrades Custom builds from moderate to extreme Network (wireless or wired) install, upgrade, troubleshooting, and/or repair Data backup and recovery Preventative maintenance Mac, Linux or Windows Immediate and Express(Standard).
+
+portfolio:
+  heading: Why Us?
+  subheading: The computer landscape is ever changing and as such we are here to be your experts. We are highly motivated and professional, here to fix your problem, prevent future ones, and inform you how to prevent them yourself.
+
+about:
+  heading: About
+  subheading: Learn a little of the backstory of Vision Network Solutions and how we got from nothing to today.
+  timeline:
+    - image: img/about/1.jpg
+      date: 1999
+      title: Founded
+      text: In 1999 Vision Network Solutions was founded.
+    - image: img/about/2.jpg
+      date: 2001
+      title: Growth
+      text: In 2001 Brian Berg joined the team to expand the knowledge base and setting up for the future and further success.
+    - image: img/about/3.jpg
+      date: 2010
+      title: Continue to remove the headache from IT
+      text: In 2010 we were still here working hard to remove the headache that can come from supporting an orginizations IT needs.
+    - image: img/about/4.jpg
+      date: 2019
+      title: Helping you today
+      text: Today you may have a problem, or maybe not. Either way we are here to help! Give us an email or a ring.
+
+
+  end1: Get
+  end2: in
+  end3: Touch!
+
+team:
+  heading: Our Amazing Team
+  #subheading: Lorem ipsum dolor sit amet consectetur.
+  members:
+    - name: Jan Erickson
+      role: Owner
+      img: img/team/jan_profile.png
+      social-buttons:
+      #  - icon: fa fa-twitter
+      #    url: "#" 
+      #  - icon: fa fa-facebook
+      #    url: "#"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/jan-erickson-63b6b11/"
+        
+    - name: Brian Berg
+      role: Vice President
+      img: img/team/brian_profile.png
+      social-buttons:
+      #  - icon: fa fa-twitter
+      #    url: "#" 
+      #  - icon: fa fa-facebook
+      #    url: "#"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/brian-berg-2783b42/"
+
+    - name: Gloria Berg
+      role: Accounting
+      img: img/team/gloria_profile.png
+      social-buttons:
+      #  - icon: fa fa-twitter
+      #    url: "#" 
+      #  - icon: fa fa-facebook
+      #    url: "#"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/gloria-berg-8187649/"
+
+  #text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+
+clients:
+  - img: img/logos/birchlake.webp
+    url: "https://www.birchlakeeyeclinic.com/"
+  - img: img/logos/ica.png
+    url: "https://www.icacorp.com/"
+  - img: img/logos/Staffing-Partners.png
+    url: "https://www.staffingpartnersinc.com/"
+  - img: img/logos/garelick.png   
+    url: "http://www.garelick.com/index.php"
+
+contact:
+  heading: Contact Us
+  #subheading: Lorem ipsum dolor sit amet consectetur.
+  email: info@visionnetworkinc.com
+  btn: Send Us An Email
+  use-php: false
+
+  #js-url: '././mail/contact_me.php'
+  #js-success: 'Your message has been sent. '
+  #js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+  #js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
