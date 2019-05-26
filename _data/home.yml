@@ -26,19 +26,23 @@ about:
   subheading: Learn a little of the backstory of Vision Network Solutions and how we got from nothing to today.
   timeline:
     - image: img/about/1.jpg
-      date: 1999
+      date: 1999-01-01 01:01
+      date_format: "%Y"
       title: Founded
       text: In 1999 Vision Network Solutions was founded.
     - image: img/about/2.jpg
-      date: 2001
+      date: 2001-01-01 01:01
+      date_format: "%Y"
       title: Growth
       text: In 2001 Brian Berg joined the team to expand the knowledge base and setting up for the future and further success.
     - image: img/about/3.jpg
-      date: 2010
+      date: 2010-01-01 01:01
+      date_format: "%Y"
       title: Continue to remove the headache from IT
       text: In 2010 we were still here working hard to remove the headache that can come from supporting an orginizations IT needs.
     - image: img/about/4.jpg
-      date: 2019
+      date: now
+      date_format: "%Y"
       title: Helping you today
       text: Today you may have a problem, or maybe not. Either way we are here to help! Give us an email or a ring.
 
@@ -59,7 +63,7 @@ team:
       #    url: "#" 
       #  - icon: fa fa-facebook
       #    url: "#"
-        - icon: fa fa-linkedin
+        - icon: fab fa-linkedin
           url: "https://www.linkedin.com/in/jan-erickson-63b6b11/"
         
     - name: Brian Berg
@@ -70,7 +74,7 @@ team:
       #    url: "#" 
       #  - icon: fa fa-facebook
       #    url: "#"
-        - icon: fa fa-linkedin
+        - icon: fab fa-linkedin
           url: "https://www.linkedin.com/in/brian-berg-2783b42/"
 
     - name: Gloria Berg
@@ -81,20 +85,100 @@ team:
       #    url: "#" 
       #  - icon: fa fa-facebook
       #    url: "#"
-        - icon: fa fa-linkedin
+        - icon: fab fa-linkedin
           url: "https://www.linkedin.com/in/gloria-berg-8187649/"
 
   #text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
 clients:
-  - img: img/logos/birchlake.webp
-    url: "https://www.birchlakeeyeclinic.com/"
-  - img: img/logos/ica.png
-    url: "https://www.icacorp.com/"
-  - img: img/logos/Staffing-Partners.png
-    url: "https://www.staffingpartnersinc.com/"
-  - img: img/logos/garelick.png   
-    url: "http://www.garelick.com/index.php"
+  heading: Our Clients
+  #subheading: Lorem ipsum dolor sit amet consectetur.
+  items:
+    - img: img/logos/birchlake.webp
+      url: "https://www.birchlakeeyeclinic.com/"
+    - img: img/logos/jms.png
+      url: "https://www.jmscustomhomes.com/new/wp-content/themes/creatingwow-homebuilder/images/logo-blue.png"
+    - img: img/logos/pmg.png
+      url: "http://www.pmgservices.com/"
+    - img: img/logos/terragc.webp
+      url: "https://www.terragc.com/"
+
+testimonials:
+  heading: Testimonials
+  #subheading:
+  testimonials:
+    - company: Birch Lake Eye Clinic
+      person: Kim Christopherson
+      text: Based on my professional association with Brian and Jan at Vision Network Solutions over the past 5 years. For that entire length of time, they have always gone above and beyond what was asked of them to do for our clinics. Their professional, timely, knowledgeable, and have always carried out their obligations with great integrity. Overall I would recommend Vision Network Solutions to anyone and everyone.
+      link: https://www.birchlakeeyeclinic.com/
+      picture:
+    - company: Carefree Capital
+      person: Becky Arendt
+      text: Over the last 8 years, Jan and Vision Network Solutions have provided excellent IT support and advice allowing us to focus and be productive in our business. Their service is outstanding and they are wonderful business partners! It is a pleasure to work with the entire team.
+      link: http://www.carefreecapital.com/
+      #picture:
+      icon: fa fa-landmark
+    - company: Synergy Homecare MSP Metro
+      person: Jim Zenk
+      text: I highly recommend the Vision Network Solutions team. Besides being a pleasure to work with, they had helpful suggestions, were responsive and a good value. As a small business owner, they have become a valuable resource to me – and one I will use again.
+      link: http://www.synergyhomecare.com/
+      #picture:
+      icon: fa fa-building
+    - company: The Chuba Company
+      person: Duane Kozitka
+      text: In the construction business as like most others, time = money whether it’s made or wasted. If our computers, server or other peripherals are down we are pretty much shut down. I have been a client of Vision Network Solutions for nearly 10 years and Jan, Brian, Gloria and the rest of the team at Vision Network Solutions have consistently helped us to keep our technology resources maintained at competitive rates and have always been there to help when those unexpected needs arise. They can explain what they/we need to do in understandable terms and are there to answer even a simple question over the phone if necessary. Over the years Vision Network Solutions has built a trust relationship with us and I know they have our back so I can focus on managing and growing our business not putting out technology fires. I don’t hesitate to pass their number on when someone has a technology need.
+      link: http://www.chubaco.com/
+      #picture:
+      icon: fa fa-chart-pie
+    - company: E Technical Staffing
+      person: Dave Lindblom
+      text: We have used Vision Network Solutions for over 10 years now. Jan and his staff have always been prompt, accessible and efficient in our networking needs. Vision Network Solutions is very knowledgeable and informative in the ever changing realm of Technology. I would highly recommend Vision Network Solutions and their services.
+      link: http://www.etechnicalstaffing.com/
+      #picture:
+      icon: fa fa-clipboard
+    - company: Garelick Manufacturing
+      person: Jeffrey Martin
+      text: >- # multi line text
+        Jan and Brian designed, installed and implemented our first local area network in 2002. They have successfully guided us through several upgrades since then; assisting us in installing and/or interfacing with several applications including anti-virus software, anti-spam software, UPS hardware, firewalls, internet connections and back-up software. They have also been of great help in maintaining our “PC’s”. They have always operated at the highest level of professionalism and have never failed to address any problems we may have had with our systems.
+        <br/><br/>
+        Perhaps most importantly, Jan laughs at my attempts at being humorous.
+      link: http://www.garelick.com/
+      #picture:
+      icon: fa fa-paperclip
+    - company: Matrix Laser Care
+      person: Joe Garske
+      text: I have run a printer support company since 1987, that supports both large and small I.T. departments. What I do is only important because it is so closely related to all types of I.T. professionals. I met Jan Erickson and became a customer in the mid 1990’s and have never considered changing support companies because I have always gotten prompt reliable service. Feel free to contact me any time for a reference.
+      link: http://www.matrixlasercare.com/
+      #picture:
+      icon: fa fa-globe
+    - company: Matrix Laser Care
+      person: Lyn Garske
+      text: I have referred Jan Erickson to many friends, customers and business associates. The exceptional IT skills that he has have been crucial to our business for many years. He has the ability to explain himself and his work to others in a highly technical manner or in nontechnical words that are easy to understand. You can be sure that if he sets an appointment he will be there and stay until the problem is rectified to your satisfaction.
+      link: http://www.matrixlasercare.com/
+      #picture:
+      icon: fa fa-fax
+    - company: JMS Companies
+      person: Darleen Turcotte
+      text: >- # multi line
+        Vision Network Solutions, Inc. has provided services to our company for the past 7 years. I have always found Jan, Brian and their staff to be extremely conscientious and all services provided to be of the highest caliber. The entire Vision staff is well-trained, highly professional and most cooperative.
+        <br/><br/>
+        Jan Erickson provides outstanding service and is extremely committed. He has worked on numerous projects for JMS Companies; all were highly successful! One major project was the company relocation to a new office. Jan’s quality of work was outstanding, his work ethic, determination, genuine character and dedication in completing the job, enabled us to stay on schedule and be fully operational day one at the new office.
+        <br/><br/>
+        I have the utmost respect for Jan and Vision Network Solutions, and I would wholeheartedly recommend Vision Network Solutions to my friends and colleagues.
+      link: http://jmscompanies.com/
+      #picture:
+      icon: fa fa-city
+    - company: ICA Corp
+      person: Terry Hoaglund
+      text: Vision Network Solutions has been the best IT Company we have dealt with. They respond to any problem and get it taken care of quickly and with quality workmanship, I also want to say that all their personnel are courteous and always have a smile on.
+      link: http://icacorp.com/
+      picture: img/customer/terry_and_jan.jpg
+    - company: Staffing Partners
+      person: Jerry Sazama
+      text: Staffing Partners has relied on Jan Erickson from Vision Network Solutions for the past 10 years. I receive sales calls on a daily basis with regard to various IT Solutions being offered and I simply let them know that our needs have always been handled beyond expectations, day or night, by our current provider. Many firms offer competitive rates, service plans and solutions galore but I can’t imagine receiving better service or more technical expertise than what we achieve by working with Jan at Vision Network Solutions.
+      link: http://www.staffingpartnersinc.com/
+      #picture:
+      icon: fa fa-briefcase
 
 contact:
   heading: Contact Us

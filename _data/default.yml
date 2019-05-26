@@ -1,5 +1,6 @@
 brand:
-  name: Vision Network Solutions, Inc.
+  #name: Vision Network Solutions, Inc.
+  logo: assets/img/logos/logo_invert.png
 menu-string: Menu
 
 nav:
@@ -14,10 +15,10 @@ nav:
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Vision Network Solutions, Inc 2019
+copyright: Copyright &copy; Vision Network Solutions, Inc
 
 social-buttons:
-  - icon: fa fa-facebook
+  - icon: fab fa-facebook-f
     url: 'https://facebook.com/visionnetworkinc' 
   #- icon: fa fa-facebook
   #  url: '#'
