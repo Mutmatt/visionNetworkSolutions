@@ -111,7 +111,8 @@ testimonials:
       person: Kim Christopherson
       text: Based on my professional association with Brian and Jan at Vision Network Solutions over the past 5 years. For that entire length of time, they have always gone above and beyond what was asked of them to do for our clinics. Their professional, timely, knowledgeable, and have always carried out their obligations with great integrity. Overall I would recommend Vision Network Solutions to anyone and everyone.
       link: https://www.birchlakeeyeclinic.com/
-      picture:
+      #picture:
+      icon: fa fa-building
     - company: Carefree Capital
       person: Becky Arendt
       text: Over the last 8 years, Jan and Vision Network Solutions have provided excellent IT support and advice allowing us to focus and be productive in our business. Their service is outstanding and they are wonderful business partners! It is a pleasure to work with the entire team.
