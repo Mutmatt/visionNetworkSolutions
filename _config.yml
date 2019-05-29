@@ -37,6 +37,8 @@ collections: # Enables additional data structures
 analytics:
   google: UA-140892830-1
 
+nav-theme: light # dark or light
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
