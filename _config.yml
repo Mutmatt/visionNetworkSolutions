@@ -27,6 +27,8 @@ url: "https://visionnetworkinc.com" # the base hostname & protocol for your site
 remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
 
 sass: # Enables the conversion of css/agency.min.scss to  css/agency.min.css
   style: compressed # Minify css/agency.min.css
